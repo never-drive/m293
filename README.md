@@ -7,4 +7,4 @@
 ### Deployments
 
 * [Netlify](http://never-drive.junamin.ch/)
-* [GitHub Pages](https://never-drive.github.io/)
+* [GitHub Pages](https://never-drive.github.io/m293)
